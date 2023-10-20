@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidOpenCVWebcam"
 include ':app'
 include ':opencv'
-project(':opencv').projectDir = new File(rootDir, opencvsdk + '/sdk/')
+project(':opencv').projectDir = new File(rootDir, 'app/lib/opencv-4.8.1-android-sdk/OpenCV-android-sdk' + '/sdk/')
