@@ -36,7 +36,7 @@
     <PreferenceCategory app:title="Credits">
         <Preference
             app:key="credit_project_name"
-            app:title="KaiMedia Internship Project\nSeptember, 2019">
+            app:title="September, 2023">
         </Preference>
         <Preference
             app:key="credit_explanation"
